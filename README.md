@@ -1,2 +1,5 @@
 # SoftwarePrinciples
-This is just a simple repo that collects all of my software principles.
+## How I add comments to a sql script file:
+- Add the scripts purpose at the top using format below.
+ 
+![SQL Code Comments](SQLCodeComments.png)
